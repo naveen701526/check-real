@@ -1,0 +1,22 @@
+{
+  "name": "check-real",
+  "version": "1.0.1",
+  "description": "A simple NPM package, which checks whether an input text is valid or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveen701526/check-real.git"
+  },
+  "keywords": [
+    "check-real"
+  ],
+  "author": "metta naveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveen701526/check-real/issues"
+  },
+  "homepage": "https://github.com/naveen701526/check-real#readme"
+}
