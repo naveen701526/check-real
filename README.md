@@ -1,4 +1,4 @@
-# valid-country
+# valid-countries
 
 valid-country provides boolean value whether a country name is true or false.
 
